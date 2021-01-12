@@ -1,4 +1,4 @@
-# optical_pumping-quantum_computing
+# Optical Pumping & Quantum Computing
 
 In optical pumping, circularly polarised photons selectively filtered from linearly polarised light redistribute the electronic states of a sample of rubidium atoms. Free rubidium atoms are modelled as a simple hydrogenic system with only the single valence electron investigated. This polarisation imposes a selection rule on the system, therefore providing a constraint on the possible electronic transitions. 
 
