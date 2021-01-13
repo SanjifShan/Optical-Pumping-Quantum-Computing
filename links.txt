@@ -1,0 +1,36 @@
+More concise theory on optical pumping:
+https://www.physics.utoronto.ca/~phy326/rb/optical-pumping-in-rubidium.pdf
+
+Examples of a lab report
+https://faculty.kfupm.edu.sa/phys/aanaqvi/OpticalPumping-cornell.pdf
+
+http://home.sandiego.edu/~severn/p480w/op\%20paper\%20draft_h.pdf?fbclid=IwAR0nN9-LtKEs8krc2iC96k89nvZ0ATXuiJ3AxGI0aa7blpGhK-rThraJ8rY
+
+Survival of the fittest in the coherent evolution of quantum ensembles
+https://arxiv.org/pdf/1803.00797.pdf?fbclid=IwAR2KOEJUFj05XlHXbHiVbzpC9qyAZVbk44-mQUdc-HF6xwTPQMzJXwz1Fgc
+
+rabi freq
+https://pdf.sciencedirectassets.com/271542/1-s2.0-S0370157300X1304X/1-s2.0-0370157380901192/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCj%2FrTzphSMHtnJmKf9ws2F8%2FpHHL%2FWP3fxj28Akuz2jQIgRclow4KC3YK9dpFAIT7f8Df%2FL93Hq%2FGe9tKo1UT4kwAqtAMITRACGgwwNTkwMDM1NDY4NjUiDL1rSs8MVBjWEPsIiSqRA%2Bl01QlTYjrE%2F81tj%2FM6MAl9h7ogdeorZ0PvwwE9PnKxZwdGHw5qVIUF3HJVsdt%2BCboJX4%2Fen1ZJQx9w7R2nQPaP26HHXpeU1ZwyhwWeqM%2BKug10UWSkmDSBmAsZoChiILpIdMJm1TUXpKa9IFYBjD2Sk8f4IP81PrJyMcJxl2xxb9Z4D46rLAam1iYPi1AzMcjvBJGRT7j6K2ebhFCHU1ljdF2Fm8cOAUIuy4MMlK0NXtaaNF9QWTdxGmkf8kB9T07qA%2B7%2Be4%2FvGxEC62QPKRk2070FUmOaYluDTudyrIokNgdyN83zfZ5qwnzBQeFwaX9UgsKYkelpcLobRMBLfDAeoc5WlV0DyCYBgKwRfSjBATxNJUE7HhbjnNW8YFC2o5xY%2Be6VJZE0%2BAh%2Ba7qklZrlrXe7YQs%2Bkv8MYN%2FI6DnjRTyLjlnCrSd05m6LbFrzoGoAnkhidLQvV8XPkRXNxvsAqjNoClFhteYiNCl6lEgqY5xN%2B%2B%2FJ43YqRH55jlh3i1gFwwWyTYhkcSvTlbFrKvmHMM2WxvIFOusBZXz50ABq0AA6ylvMk8F9O4aCHx04pNR8ZGo6B3qxmt4vLKkZicNviO2VZLvewXcxoahnk4lrYQmeCXhIK3jrC6Lg4mb6Du6dzVsIoHdvQsgw0Gnofu2dDusYRb36Y6TgXzJnRsauUipAQfrto51W8VeDtvGqjgrcxrk4ULJt%2FlLpsvqrYks5OjdDqverXmonb5Dd7XGD13WiomoUrTeQbpQkA99ZMGh7iWVFqvwjNEb7Luuv88St%2BkEDpEshQwq2lz9WAe9%2BsNoyjYSmnT8dNmp6Jf1ZELlUWuDYTZyrMKDaCuUoOhMt5bxoTg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200222T211717Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYANWRAER%2F20200222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3347ba713b30dd5c96bcd05336811ea6a4d1f2e6cea395e18292b1afef7e0ba9&hash=977943f20c6bae5a5b2829193a6314c40da915497a30828ebdae54cc3aaa2a70&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=0370157380901192&tid=spdf-3e23b19e-f806-46d0-af62-df470a3f2ba4&sid=e2e30c8f319b694fa059e0d8b08efb0956f1gxrqb&type=client
+
+
+
+
+Intro bit
+
+ Nielsen, Michael A.; Chuang, Isaac L. (2010). Quantum Computation and Quantum Information: 10th Anniversary Edition. Cambridge: Cambridge University Press. doi:10.1017/cbo9780511976667. ISBN 9780511976667.
+
+
+https://www.nature.com/articles/s41586-019-1666-5
+
+https://www.nature.com/articles/s41586-019-1666-5 - google
+
+http://quantumalgorithmzoo.org/
+
+quantum is fast
+
+Quantum Algorithm Zoo Archived 2018-04-29 at the Wayback Machine – Stephen Jordan's Homepage
+
+solid state physics, Pell's equation
+
+MATERIAL ISSUES IN QUANTUM COMPUTATION
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0883769413002108

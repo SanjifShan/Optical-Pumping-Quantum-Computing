@@ -1,0 +1,6 @@
+The properties of a rubidium atom can be described with the orbital angular momentum \textbf{L}, spin angular momentum \textbf{S}, and  total angular momentum $\textbf{J} = \textbf{L} + \textbf{S}$ of the outer valence electron, and the spin of the nucleus \textbf{I}. The total angular momentum of the atom is then given by $\textbf{F} = \textbf{I} + \textbf{J}$ \cite{rae}. Each of these momenta have an associated magnetic moment, and the interaction between the magnetic moments of $\textbf{I}$ and $\textbf{J}$ leads to splitting in energy levels of different values of $\textbf{F}$. This splitting is called the Hyperfine Structure. 
+
+Applying a weak external magnetic field $\textbf{B}$ to the atom causes further splitting of energy levels, called the Zeeman effect. The field is said to be weak if the resulting splitting is very small compared to the Hyperfine splitting \cite{griffiths}. 
+
+Any discrepancies in the value of 1.48$\pm$0.05 could be avoided in future experiments by applying a Fourier transform to the data, allowing for the isolation of the true Larmor frequency and mains supply freqeuncy, since they interfere. This would allow for the elimination of this
+systematic error.
